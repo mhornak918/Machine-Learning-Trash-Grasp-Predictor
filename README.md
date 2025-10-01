@@ -144,7 +144,3 @@ Baimukhanov, B., Bhupathiraju, S., & Hornak, M. (2025).
 Trash Segmentation and Grasp Estimation: A Comparative Study of RGB vs. RGBD 
 Neural Networks for Mask-Guided Robotic Grasping. Boston University.
 ```
-
-## License
-
-[Specify your license here]
